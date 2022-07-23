@@ -39,4 +39,6 @@
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" alt="nodejs" width="30" height="30"/> </a> 
 </p>
 
+<br/>
+
 [![GitHub Streak](http://abdoulbaguim.herokuapp.com?user=AbdoulBaguiM&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
