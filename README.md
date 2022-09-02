@@ -19,7 +19,6 @@
 <p> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> 
     <a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/w/85/webpack-icon.svg" alt="webpack" width="30" height="30"/> </a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue-js" width="30" height="30"/> </a> 
     <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://cdn.cdnlogo.com/logos/j/2/java.svg" alt="java" width="30" height="30"></a>
     <a href="https://docs.docker.com/" target="_blank"><img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Git" width="auto" height="30"/></a>
     <a href="https://developer.android.com/docs" target="_blank"><img src="https://cdn.cdnlogo.com/logos/a/15/android.svg" alt="android" width="50" height="40"></a>
@@ -29,7 +28,6 @@
     <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="next-js" width="30" height="30"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://cdn.cdnlogo.com/logos/s/91/spring.svg" alt="spring-boot" width="30" height="30"></a>
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a> 
@@ -37,6 +35,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" alt="css3" width="30" height="30"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" alt="nodejs" width="30" height="30"/> </a> 
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="next-js" width="30" height="30"/> </a>
 </p>
 
 <br/>
