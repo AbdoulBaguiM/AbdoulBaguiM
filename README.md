@@ -7,12 +7,16 @@
 
 - 📫 Can reach me at **mhdabdel151@gmail.com**
 
+- 🌐 Myportfolio [www.abdoulbaguim.me](www.abdoulbaguim.me)
+
 <h3>Connect with me:</h3>
 <p>
     <a href="https://www.instagram.com/mhd_abdel" target="blank"><img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-64.png" alt="Abdoul Bagui M." height="30" width="30" /></a>
     <a href="https://twitter.com/BaguiMohamadou" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-64.png" alt="Abdoul Bagui M." height="30" width="30" style="margin-left: 10px" /></a>
     <a href="https://www.linkedin.com/in/mohamadou-abdoul-bagui-3a5427153" target="blank"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-64.png" alt="Abdoul Bagui M." height="30" width="30" style="margin-left: 10px" /></a>
     <a href="https://web.facebook.com/mohamadou.abdoul" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-64.png" alt="Abdoul Bagui M." height="30" width="30" style="margin-left: 10px" /></a>
+    <a href="https://medium.com/@mhdabdel151"><img src="https://user-images.githubusercontent.com/72513211/191840303-39a31417-b552-42dc-9907-7b7d0b6ead0e.png" alt="Abdoul Bagui M." height="30" width="30"/></a>
+
 </p>
 
 <h3>Languages and Tools:</h3>
