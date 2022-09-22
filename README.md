@@ -15,7 +15,7 @@
     <a href="https://twitter.com/BaguiMohamadou" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter2_colored_svg-64.png" alt="Abdoul Bagui M." height="30" width="30" /></a>
     <a href="https://www.linkedin.com/in/mohamadou-abdoul-bagui-3a5427153" target="blank"><img src="https://cdn0.iconfinder.com/data/icons/social-circle-3/72/Linkedin-64.png" alt="Abdoul Bagui M." height="30" width="30"/></a>
     <a href="https://web.facebook.com/mohamadou.abdoul" target="blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-64.png" alt="Abdoul Bagui M." height="30" width="30"/></a>
-    <a href="https://medium.com/@mhdabdel151"><img src="https://user-images.githubusercontent.com/72513211/191841008-a966e8fa-b921-49b4-bb85-4b5398dbdb13.png" alt="Abdoul Bagui M." height="30" width="30"/></a>
+    <a href="https://medium.com/@mhdabdel151"><img src="https://cdn.icon-icons.com/icons2/2992/PNG/512/medium_logo_icon_187322.png" alt="Abdoul Bagui M." height="30" width="30"/></a>
 
 </p>
 
@@ -39,8 +39,8 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" alt="css3" width="30" height="30"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" alt="nodejs" width="30" height="30"/> </a> 
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="next-js" width="30" height="30"/> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" alt="tailwindcss" width="30" height="30"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="next-js" width="30" height="30"/> </a>
 </p>
 
 <br/>
