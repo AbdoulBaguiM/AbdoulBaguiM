@@ -40,6 +40,8 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" alt="css3" width="30" height="30"/> </a> 
     <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" alt="nodejs" width="30" height="30"/> </a> 
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" alt="tailwindcss" width="30" height="30"/> </a>
+    <a href="https://www.elastic.co/"><img src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" alt="elastic" width="30" height="30"/>
+    </a>
     <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="next-js" width="30" height="30"/> </a>
 </p>
 
