@@ -47,4 +47,4 @@
 
 <br/>
 
-[![GitHub Streak](http://abdoulbaguim.herokuapp.com?user=AbdoulBaguiM&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-jye4z48ar-abdoulbaguim.vercel.app/?user=AbdoulBaguiM&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://www.abdoulbaguim.me)
