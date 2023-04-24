@@ -24,7 +24,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> 
     <a href="https://webpack.js.org" target="_blank"> <img src="https://cdn.cdnlogo.com/logos/w/85/webpack-icon.svg" alt="webpack" width="30" height="30"/> </a>
     <a href="https://docs.oracle.com/en/java/" target="_blank"><img src="https://cdn.cdnlogo.com/logos/j/2/java.svg" alt="java" width="30" height="30"></a>
-    <a href="https://docs.docker.com/" target="_blank"><img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Git" width="auto" height="30"/></a>
+    <a href="https://docs.docker.com/" target="_blank"><img src="https://www.saturnme.com/wp-content/uploads/2019/10/vertical-logo-monochromatic-1.png" alt="Git" width="auto" height="30"/></a>
     <a href="https://developer.android.com/docs" target="_blank"><img src="https://cdn.cdnlogo.com/logos/a/15/android.svg" alt="android" width="50" height="40"></a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> 
     <a href="https://code.visualstudio.com/docs" target="_blank"><img src="https://cdn.cdnlogo.com/logos/v/82/visual-studio-code.svg" alt="VSCode" width="30" height="30"/></a>
