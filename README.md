@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=36BCF7FF&lines=3%2B+years+of+coding+experience;Full-stack+web+and+app+developer;Always+learning+new+things+!)](https://git.io/typing-svg)
 
-<h3>I'm a Software Engineer Student</h3>
+<h3>I'm a Software Engineer</h3>
 
 - 🔭 Probably working on something awesome 🔥😎
 
