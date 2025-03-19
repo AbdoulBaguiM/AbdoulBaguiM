@@ -42,7 +42,7 @@
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" alt="tailwindcss" width="30" height="30"/> </a>
     <a href="https://www.elastic.co/"><img src="https://cdn.iconscout.com/icon/free/png-256/elasticsearch-226094.png" alt="elastic" width="30" height="30"/>
     </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.aglty.io/bwql7jyk/Attachments/NewItems/image_20211214122557_0.png" alt="next-js" width="30" height="30"/> </a>
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png" alt="next-js" width="30" height="30"/> </a>
 </p>
 
 <br/>
