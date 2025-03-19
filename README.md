@@ -47,4 +47,4 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AbdoulBaguiM&theme=highcontrast)](https://www.abdoulbaguim.me)
+[![GitHub Streak](https://readme-streak-stats-sage.vercel.app?user=AbdoulBaguiM&theme=prussian&short_numbers=true)](https://my-portfolio-three-lac.vercel.app/)
