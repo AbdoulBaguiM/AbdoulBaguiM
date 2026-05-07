@@ -1,4 +1,9 @@
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdoulbaguim/abdoulbaguim/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdoulbaguim/abdoulbaguim/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/abdoulbaguim/abdoulbaguim/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <br/>
 
@@ -90,17 +95,7 @@ I ship **secure, scalable systems** — and the AI agents that run them. 3+ year
 
 <img src="https://streak-stats.demolab.com?user=abdoulbaguim&hide_border=true&background=F0EEE6&stroke=D6D3D1&ring=15803D&fire=15803D&currStreakNum=1C1917&sideNums=1C1917&currStreakLabel=78716C&sideLabels=78716C&dates=78716C&font=JetBrains+Mono" />
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdoulbaguim&bg_color=F0EEE6&color=44403C&line=15803D&point=1C1917&area=true&area_color=15803D&hide_border=true" width="100%" />
-
 <br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdoulbaguim/abdoulbaguim/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdoulbaguim/abdoulbaguim/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/abdoulbaguim/abdoulbaguim/output/github-contribution-grid-snake.svg" />
-</picture>
 
 </div>
 
