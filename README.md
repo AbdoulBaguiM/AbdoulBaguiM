@@ -11,11 +11,8 @@
 
 *Software Engineer · Casablanca, Morocco*
 
-<br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1500&color=15803D&center=true&vCenter=true&width=720&lines=Cut+API+latency+%3E40%25+at+Orange+Cyberdefense;Elastic+Gold+Contributor+%C2%B7+2023;Upwork+Top+Rated+%C2%B7+100%25+Job+Success;AI+agents+%26+MCP+servers%2C+shipped+to+prod;3%2B+years+%E2%80%94+cybersecurity+%C2%B7+fintech+%C2%B7+SaaS" alt="" />
 
-<br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=abdoulbaguim&color=15803d&style=flat-square&label=PROFILE+VIEWS)
 &nbsp;&nbsp;
@@ -84,10 +81,10 @@ I ship **secure, scalable systems** — and the AI agents that run them. 3+ year
 
 <table><tr>
 <td valign="top">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoulbaguim&show_icons=true&hide_border=true&bg_color=F0EEE6&text_color=1C1917&title_color=15803D&icon_color=15803D&rank_icon=github&include_all_commits=true&count_private=true" />
+  <img src="https://raw.githubusercontent.com/abdoulbaguim/abdoulbaguim/output/metrics.base.svg" />
 </td>
 <td valign="top">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoulbaguim&layout=compact&hide_border=true&bg_color=F0EEE6&text_color=1C1917&title_color=15803D&langs_count=8" />
+  <img src="https://raw.githubusercontent.com/abdoulbaguim/abdoulbaguim/output/metrics.langs.svg" />
 </td>
 </tr></table>
 
