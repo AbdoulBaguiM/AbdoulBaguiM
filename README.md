@@ -101,11 +101,7 @@ I ship **secure, scalable systems** — and the AI agents that run them. 3+ year
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1C1917?style=flat-square&logo=googlechrome&logoColor=15803D)](https://abdoulbm.com)
-&nbsp;
-
 [![Upwork](https://img.shields.io/badge/Upwork-1C1917?style=flat-square&logo=upwork&logoColor=15803D)](https://www.upwork.com/freelancers/~0174177631ba20b80c/)
-&nbsp;
-
 [![Email](https://img.shields.io/badge/Email-1C1917?style=flat-square&logo=gmail&logoColor=15803D)](mailto:abaguim0@gmail.com)
 
 </div>
