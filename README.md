@@ -18,7 +18,7 @@
 &nbsp;&nbsp;
 ![Status](https://img.shields.io/static/v1?label=%E2%97%8F&message=Open+to+work&color=15803D&style=flat-square&labelColor=1C1917)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/abdoulbm.vercel.app-1C1917?style=flat-square)](https://abdoulbm.vercel.app)
+[![Portfolio](https://img.shields.io/badge/abdoulbm.com-1C1917?style=flat-square)](https://abdoulbm.com)
 
 </div>
 
@@ -100,14 +100,12 @@ I ship **secure, scalable systems** — and the AI agents that run them. 3+ year
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1C1917?style=flat-square&logo=vercel&logoColor=F0EEE6)](https://abdoulbm.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1C1917?style=flat-square&logo=googlechrome&logoColor=15803D)](https://abdoulbm.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1C1917?style=flat-square&logo=linkedin&logoColor=15803D)](https://www.linkedin.com/in/abdoulbaguim)
-&nbsp;
+
 [![Upwork](https://img.shields.io/badge/Upwork-1C1917?style=flat-square&logo=upwork&logoColor=15803D)](https://www.upwork.com/freelancers/~0174177631ba20b80c/)
 &nbsp;
-[![Medium](https://img.shields.io/badge/Medium-1C1917?style=flat-square&logo=medium&logoColor=15803D)](https://medium.com/@mhdabdel151)
-&nbsp;
-[![Email](https://img.shields.io/badge/abaguim0%40gmail.com-1C1917?style=flat-square&logo=gmail&logoColor=15803D)](mailto:abaguim0@gmail.com)
+
+[![Email](https://img.shields.io/badge/Email-1C1917?style=flat-square&logo=gmail&logoColor=15803D)](mailto:abaguim0@gmail.com)
 
 </div>
